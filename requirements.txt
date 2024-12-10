@@ -1,0 +1,6 @@
+deap==1.4.1
+numpy==1.21.5
+pygame==2.6.1
+scipy==1.8.0
+Shapely==2.0.6
+torch==2.5.1
