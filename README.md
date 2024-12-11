@@ -44,7 +44,7 @@ The evolutionary learning process selects the most successful vehicles in each g
 
 Below is a demonstration of the simulation:
 
-![Simulation Demo](docs/demo2.gif)
+![Simulation Demo](docs/demo_2.gif)
 
 ## Contact
 
